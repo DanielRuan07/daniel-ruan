@@ -1,11 +1,18 @@
 ---
-title: "website"
+title: "Daniel Ruan"
+image: daniel.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-ruan-75685b1a4/
+    - text: GitHub
+      href: https://github.com/DanielRuan07
+    - text: Email
+      href: mailto:jruan4@jh.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to my website! I'm Daniel Ruan, a first year Biostatistics ScM student at Johns Hopkins Bloomberg School of Public Health.
