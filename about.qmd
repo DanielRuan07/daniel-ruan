@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I graduated from Wake Forest University in May 2023, where I studied Biochemsitry & Molecular Biology and Mathematical Statistics. I did research on computational chemistry, where I obtained some basic coding skills. However, I would like to learn more about it in a more organized manner. After obtaining my masters degree, I want to work for pharmaceutical companies.
+I graduated from Wake Forest University in May 2023, where I studied Biochemsitry & Molecular Biology and Mathematical Statistics. I did research on computational chemistry, where I obtained some basic coding skills. However, I would like to learn more about it in a more organized manner. 
 
 In my free time, I like to watch sports and play GeoGuessr.
 
