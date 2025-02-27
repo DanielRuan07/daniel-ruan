@@ -15,4 +15,4 @@ about:
       href: mailto:jruan4@jh.edu
 ---
 
-Welcome to my website! I'm Daniel Ruan, a first year Biostatistics ScM student at Johns Hopkins Bloomberg School of Public Health.
+Welcome to my website! I'm Daniel Ruan, a second year Biostatistics ScM student at Johns Hopkins Bloomberg School of Public Health.
